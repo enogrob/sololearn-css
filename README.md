@@ -21,7 +21,7 @@ Css Fundamentals
 [x] The Basics
 [x] Working with Text
 [x] Properties
-[ ] Positioning and Layout
+[x] Positioning and Layout
 [ ] CSS3 Basics
 [ ] Gradients and Backgrounds
 [ ] Transitions & Transforms
