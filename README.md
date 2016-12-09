@@ -22,7 +22,7 @@ Css Fundamentals
 [x] Working with Text
 [x] Properties
 [x] Positioning and Layout
-[ ] CSS3 Basics
+[x] CSS3 Basics
 [ ] Gradients and Backgrounds
 [ ] Transitions & Transforms
 [ ] Certificate
