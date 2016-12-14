@@ -23,7 +23,7 @@ Css Fundamentals
 [x] Properties
 [x] Positioning and Layout
 [x] CSS3 Basics
-[ ] Gradients and Backgrounds
+[x] Gradients and Backgrounds
 [ ] Transitions & Transforms
 [ ] Certificate
 ```
