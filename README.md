@@ -19,7 +19,7 @@ Watch our carefully selected YouTube Videos, take the interactive quizzes, accum
 ```
 Css Fundamentals
 [x] The Basics
-[ ] Working with Text
+[~] Working with Text
 [ ] Properties
 [ ] Positioning and Layout
 [ ] CSS3 Basics
