@@ -19,7 +19,7 @@ Watch our carefully selected YouTube Videos, take the interactive quizzes, accum
 ```
 Css Fundamentals
 [x] The Basics
-[~] Working with Text (alignment text vertically)
+[x] Working with Text (alignment text vertically)
 [ ] Properties
 [ ] Positioning and Layout
 [ ] CSS3 Basics
