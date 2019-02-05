@@ -20,10 +20,11 @@ Watch our carefully selected YouTube Videos, take the interactive quizzes, accum
 Css Fundamentals
 [x] The Basics
 [x] Working with Text (alignment text vertically)
-[ ] Properties
-[ ] Positioning and Layout
-[ ] CSS3 Basics
-[ ] Gradients and Backgrounds
-[ ] Transitions & Transforms
-[ ] Certificate
+Properties
+[x] Introducind the Box Model
+Positioning and Layout
+CSS3 Basics
+Gradients and Backgrounds
+Transitions & Transforms
+Certificate
 ```
