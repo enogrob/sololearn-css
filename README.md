@@ -22,6 +22,7 @@ Css Fundamentals
 [x] Working with Text (alignment text vertically)
 Properties
 [x] Introducind the Box Model
+[x] Understanding the Box Model
 Positioning and Layout
 CSS3 Basics
 Gradients and Backgrounds
