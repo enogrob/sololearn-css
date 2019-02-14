@@ -23,6 +23,7 @@ Css Fundamentals
 Properties
 [x] Introducind the Box Model
 [x] Understanding the Box Model
+[x] Borders
 Positioning and Layout
 CSS3 Basics
 Gradients and Backgrounds
