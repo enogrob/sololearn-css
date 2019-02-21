@@ -24,6 +24,7 @@ Properties
 [x] Introducind the Box Model
 [x] Understanding the Box Model
 [x] Borders
+[x] Width and Height
 Positioning and Layout
 CSS3 Basics
 Gradients and Backgrounds
